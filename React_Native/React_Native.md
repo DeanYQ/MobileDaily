@@ -19,3 +19,7 @@ https://github.com/react-native-community/react-native-tab-view
 
 http://blog.csdn.net/true100/article/details/68066649
 
+## Specific topic link
+
+* trigger child method
+https://stackoverflow.com/questions/40307610/call-child-function-from-parent-component-in-react-native

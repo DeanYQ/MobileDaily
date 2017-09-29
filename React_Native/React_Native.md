@@ -24,3 +24,8 @@ http://blog.csdn.net/true100/article/details/68066649
 * trigger child method  
 https://stackoverflow.com/questions/40307610/call-child-function-from-parent-component-in-react-native  
 https://themeteorchef.com/tutorials/understanding-props-and-state-in-react
+
+* Navigatior
+https://github.com/react-community/react-navigation/issues/145  
+https://reactnavigation.org/docs/navigators/stack  
+https://reactnavigation.org/docs/intro/
